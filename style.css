@@ -518,7 +518,7 @@ center2 {
   font-size: 25px;
   text-align: center;
   font-family: Copperplate, Fantasy;
-}
+}/* responsive media query start */
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
@@ -595,6 +595,7 @@ center2 {
         margin-bottom: 35px;
     }
 }
+
 @media (max-width: 690px) {
     .max-width{
         padding: 0 23px;
